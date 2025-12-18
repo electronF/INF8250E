@@ -1,0 +1,19 @@
+{
+  "config": {
+    "data_path": "./data/",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "timesteps": 200000,
+    "initial_cash": 5500000,
+    "initial_inventory": 100,
+    "trade_volume": 1,
+    "inventory_penalty": 0.001,
+    "random_seed": 42
+  },
+  "btc_reward1": {},
+  "eth_reward1": {},
+  "btc_reward2": {},
+  "eth_reward2": {}
+}
